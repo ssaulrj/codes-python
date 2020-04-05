@@ -1,6 +1,6 @@
 # codes-python
 
-## codeacademy-python/usingclasses.py
+## codeacademy-python3/usingclasses.py
 
 Output: 
 
