@@ -15,3 +15,20 @@ Output:
 Output: 
 
   I know it is you Dave! Go away!
+  
+## codeacademy-python3/relationaloperators.py
+
+Input:
+
+  print(graduation_reqs(120))
+
+Output:
+
+  "You have enough credits to graduate!"}
+
+## codeacademy-python3/sal_shipping_exercise.py
+
+The cheapest way to ship 4.8 pound package is using ground shipping and it will cost $34.40.
+
+The cheapest way to ship a 41.5 pound package is using premium ground shipping and it will cost $125.00.
+
