@@ -32,3 +32,10 @@ The cheapest way to ship 4.8 pound package is using ground shipping and it will 
 
 The cheapest way to ship a 41.5 pound package is using premium ground shipping and it will cost $125.00.
 
+
+## codeacademy-python3/list_exercise.py
+
+Output:
+
+  [('physics', 98), ('calculus', 97), ('poetry', 85), ('history', 88), ('computer science', 100), ('visual arts', 93)]
+[(('physics', 98), ('politics', 80)), (('calculus', 97), ('latin', 96)), (('poetry', 85), ('dance', 97)), (('history', 88), ('architecture', 65))]
