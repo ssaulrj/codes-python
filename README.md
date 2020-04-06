@@ -39,3 +39,14 @@ Output:
 
   [('physics', 98), ('calculus', 97), ('poetry', 85), ('history', 88), ('computer science', 100), ('visual arts', 93)]
 [(('physics', 98), ('politics', 80)), (('calculus', 97), ('latin', 96)), (('poetry', 85), ('dance', 97)), (('history', 88), ('architecture', 65))]
+
+
+## codeacademy-python3/list_exercise_pizza.py
+
+Output:
+
+  We sell 7 different kinds of pizza!
+  pizzas [(2, 'pepperoni'), (6, 'pineapple'), (1, 'cheese'), (3, 'sausage'), (2, 'olives'), (7, 'anchovies'), (2, 'mushrooms')]
+  pizzas sort()[(1, 'cheese'), (2, 'mushrooms'), (2, 'olives'), (2, 'pepperoni'), (3, 'sausage'), (6, 'pineapple'), (7, 'anchovies')]
+  three_cheapest[(1, 'cheese'), (2, 'mushrooms'), (2, 'olives')]
+  num_two_dollar_slices 3
