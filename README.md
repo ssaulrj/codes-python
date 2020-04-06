@@ -50,3 +50,4 @@ Output:
   pizzas sort()[(1, 'cheese'), (2, 'mushrooms'), (2, 'olives'), (2, 'pepperoni'), (3, 'sausage'), (6, 'pineapple'), (7, 'anchovies')]
   three_cheapest[(1, 'cheese'), (2, 'mushrooms'), (2, 'olives')]
   num_two_dollar_slices 3
+  
