@@ -51,3 +51,7 @@ Output:
   three_cheapest[(1, 'cheese'), (2, 'mushrooms'), (2, 'olives')]
   num_two_dollar_slices 3
   
+ ## codeacademy-python3/strings
+ 
+ ![Strings] (https://github.com/ssaulrj/codes-python/blob/master/codeacademy-python3/strings.png)
+  
