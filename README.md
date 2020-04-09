@@ -55,3 +55,6 @@ Output:
  
  ![Strings](https://github.com/ssaulrj/codes-python/blob/master/codeacademy-python3/strings.png)
   
+  ## codeacademy-python3/strings_methods
+  
+ ![Strings methods](https://github.com/ssaulrj/codes-python/blob/master/codeacademy-python3/string_methods.png)
