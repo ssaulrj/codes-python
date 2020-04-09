@@ -53,5 +53,5 @@ Output:
   
  ## codeacademy-python3/strings
  
- ![Strings] (https://github.com/ssaulrj/codes-python/blob/master/codeacademy-python3/strings.png)
+ ![Strings](https://github.com/ssaulrj/codes-python/blob/master/codeacademy-python3/strings.png)
   
