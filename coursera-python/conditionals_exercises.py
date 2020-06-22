@@ -1,0 +1,17 @@
+def is_positive(number):
+  if number > 0:
+    return True
+  else:
+    return None
+    
+def number_group(number):
+  if number > 0:
+    return "Positive"
+  elif number == 0:
+    return "Zero"
+  else:
+    return "Negative"
+
+print(number_group(10)) #Should be Positive
+print(number_group(0)) #Should be Zero
+print(number_group(-5)) #Should be Negative
